@@ -3,7 +3,7 @@
 
 <p align = center>   <img src="https://telegra.ph/file/0df571fc27016d768acd2.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="TECHNICAL-TASKEEN WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="TECHNICAL-TASKEEN WHATSAPP BOT" src="https://img.shields.io/badge/TECHNICAL TASKEEN WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
