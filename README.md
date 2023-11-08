@@ -8,7 +8,7 @@
 
 ## Authors
 
-- [@technicaltaskeen786](https://www.github.com/darkalphaxteam)
+- [@technicaltaskeen786](https://t.me/technicaltaskeen)
 
 ## Support Group
 
